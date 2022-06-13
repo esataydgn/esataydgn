@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/esataydgn/.github/master/.resources/git-header.svg" />
 
 I'm Esat Aydogan.
 
@@ -11,9 +10,6 @@ I'm Esat Aydogan.
 - 💬 &nbsp; Ask me about anything on my [issues page](https://github.com/esataydgn/esataydogan/issues)
 
 
-<!-- Most used Languages
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=esataydgn)
--->
 
 <!-- Most used Languages
 ![Vercel Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=esataydgn&layout=compact)
@@ -41,9 +37,6 @@ I'm Esat Aydogan.
 </p>
 
 <br>
-<!--
-**esataydgn/esataydogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 <!--
