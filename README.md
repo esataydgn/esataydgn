@@ -7,7 +7,7 @@ I'm Esat Aydogan.
 - 🌱 &nbsp; I’m currently learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPA6XyCbNfUGnqHU9j5wOMA_poa60D21yk_PUh7Wz9--88dBD&s" width="32" height="32" margin-top="10" alt="Unity" /> 
 - 🔭 I’m currently working on Spring Boot, DropWizard, Quarkus, Micronaut, Kotlin
 - 💻 &nbsp; Coding **Java** everyday 
-- 💬 &nbsp; Ask me about anything on my [issues page](https://github.com/esataydgn/esataydogan/issues)
+- 💬 &nbsp; Ask me about anything on my [issues page](https://github.com/esataydgn/esataydgn/issues)
 
 
 
