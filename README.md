@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esataydgn" alt="esataydgn" /></a> </p>
 
-- 🔭 I’m currently working on **Goji.Investments**
+- 🔭 I’m currently working on **Spring Boot, DropWizard, Quarkus, Micronaut, Kotlin, Event Based Architecture**
+
+- 💻 &nbsp; Coding **Java** everyday 
 
 - 🌱 I’m currently learning **AWS, Docker, K8s**
 
