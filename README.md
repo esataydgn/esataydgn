@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esataydgn" alt="esataydgn" /></a> </p>
 
-- 🔭 I’m currently working on **Spring Boot, DropWizard, Quarkus, Micronaut, Kotlin, Event Based Architecture**
+- 🔭 I’m currently working on **Spring Boot, DropWizard, Quarkus, Micronaut, Kotlin, Event Based Architecture, Event Storming**
 
 - 💻 &nbsp; Coding **Java** everyday 
 
